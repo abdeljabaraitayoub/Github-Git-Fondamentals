@@ -1,5 +1,5 @@
 ##
- <h1 align="center">simple_git_commands 👨‍🏫 👨‍💻 mod abdeljabar</h1> 
+ <h1 align="center">simple_git_commands 👨‍🏫 👨‍💻 mod hamza</h1> 
  
 ```md
 
