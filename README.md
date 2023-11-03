@@ -1,6 +1,6 @@
 ##
 
- <h1 align="center">modifi hamzamod hamza👨‍🏫 👨‍💻</h1> 
+ <h1 align="center">Git/Github Basics👨‍🏫 👨‍💻</h1> 
  
 ```md
 
