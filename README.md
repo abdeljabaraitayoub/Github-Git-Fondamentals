@@ -123,9 +123,11 @@ It's the pointer in the current branch, it has the complete repository history.
 ### <h3>Remote Repo</h3> 
 
 ```md
-In simple words its' just a space provided to share and collaborate your code with the community and frineds . 
+In simple words its' just a space provided to share and collaborate your code with the community and frineds .
+
 ```
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png" />
+
 ### Sources
 - https://git-scm.com/
 - https://git-scm.com/book/en/v2/GitHub-Scripting-GitHub
