@@ -125,7 +125,7 @@ It's the pointer in the current branch, it has the complete repository history.
 ```md
 In simple words its' just a space provided to share and collaborate your code with the community and frineds . 
 ```
-![git]([https://cdn.hashnode.com/res/hashnode/image/upload/v1644871667728/U8uUkYIQa.png](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f89603d-a2c0-40cd-8fc4-32247c368650_2125x2557.png)?auto=compress,format&format=webp)
+![git]([[https://cdn.hashnode.com/res/hashnode/image/upload/v1644871667728/U8uUkYIQa.png](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f89603d-a2c0-40cd-8fc4-32247c368650_2125x2557.png)?auto=compress,format&format=webp](https://res.cloudinary.com/practicaldev/image/fetch/s--M_fHUEqA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png))
 
 ### Sources
 - https://git-scm.com/
